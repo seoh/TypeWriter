@@ -1,0 +1,17 @@
+{
+  "name": "TypeWriter",
+  "version": "1.0.0",
+  "description": "Mimic typing",
+  "main": "index.coffee",
+  "dependencies": {
+    "gulp": "^3.8.7",
+    "gulp-coffee": "^2.1.2",
+    "gulp-coffeelint": "^0.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "coffee test.coffee"
+  },
+  "author": "",
+  "license": "ISC"
+}
